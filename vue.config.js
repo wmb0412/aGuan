@@ -30,7 +30,7 @@ function resolve (dir) {
 }
 
 module.exports = {
-  // publicPath: IS_PRODUCTION ? cdnDomian : './',
+  publicPath: IS_PRODUCTION ? cdnDomian : './',
   outputDir: 'dist',
   assetsDir: 'static',
   lintOnSave: process.env.NODE_ENV === 'development',
