@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["404"],{"8cdb":function(t,e,n){"use strict";n.r(e);var r={name:"page404"},s=n("2877"),a=Object(s.a)(r,function(){var t=this.$createElement,e=this._self._c||t;return e("div",[this._v("\n  404\n  "),e("router-link",{attrs:{replace:"",to:"/"}},[this._v("返回首页")])],1)},[],!1,null,null,null);e.default=a.exports}}]);
