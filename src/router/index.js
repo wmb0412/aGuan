@@ -45,7 +45,8 @@ routes = routes.concat({
 })
 
 const createRouter = () => new Router({
-  mode: 'history', // require service support
+  // mode: 'history', // require service support
+mode:'hash',
   base: process.env.BASE_URL,
   scrollBehavior: () => ({ y: 0 }),
   routes
