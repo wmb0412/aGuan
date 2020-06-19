@@ -181,14 +181,7 @@ computed: {
 6. 利用webpack-bundle-analyzer做资源分析，提供进一步优化的数据分析
 想对性能、资源了解更多的，推荐[Vue SPA 项目webpack打包优化指南](https://juejin.im/post/5bd2b60e6fb9a05d27794c5e)这篇文章。
 
-### 更多
-花了不少时间开发了这个项目，希望能提高您的H5开发效率。也欢迎大家跟我一起交流学习。
 
-### 相关链接
-* [源码地址](https://github.com/Ljhhhhhh/h5vue)
-* [在线预览](http://h5vue.cixi518.com)
-
-### 文章参考
 * [基于vue-cli3.0构建功能完善的移动端架子](https://juejin.im/post/5cbf32bc6fb9a03236393379)
 * [Vue SPA 项目webpack打包优化指南](https://juejin.im/post/5bd2b60e6fb9a05d27794c5e)
 * [vue 在移动端体验上的优化解决方案](https://juejin.im/post/5cdd2457f265da034e7eb2f9)
